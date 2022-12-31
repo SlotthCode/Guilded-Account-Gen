@@ -1,7 +1,7 @@
 # Guilded Account Gen
 
 
-!![image](https://user-images.githubusercontent.com/80789840/210127751-fd80df77-0009-495a-b690-d87bcbe1d569.png
+![image](https://user-images.githubusercontent.com/80789840/210127751-fd80df77-0009-495a-b690-d87bcbe1d569.png
 
 
 
@@ -19,8 +19,6 @@ Put Proxies in data/proxies.txt
 ・Account Generator
 ・Joins The Server Automanic
 ・Puts the Cookies in data/cookies.txt
-
-
 ```
 
 
