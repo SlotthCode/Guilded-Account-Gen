@@ -19,8 +19,3 @@ Put Proxies in data/proxies.txt
 ・Joins The Server Automanic
 ・Puts the Cookies in data/cookies.txt
 ```
-
-
-
-
-
