@@ -1,7 +1,6 @@
 # Guilded Account Gen
 
-
-![image](https://user-images.githubusercontent.com/80789840/210127751-fd80df77-0009-495a-b690-d87bcbe1d569.png
+![image](https://user-images.githubusercontent.com/80789840/210127816-4d03ff93-7a02-4cfa-b01a-715993cd42a4.png)
 
 
 
